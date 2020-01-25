@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.87bc7fc7.chunk.css",
+    "main.js": "/shopping/static/js/main.8b21994f.chunk.js",
+    "main.js.map": "/shopping/static/js/main.8b21994f.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.775506c5.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.775506c5.js.map",
+    "static/css/2.505afc3c.chunk.css": "/shopping/static/css/2.505afc3c.chunk.css",
+    "static/js/2.cbef3add.chunk.js": "/shopping/static/js/2.cbef3add.chunk.js",
+    "static/js/2.cbef3add.chunk.js.map": "/shopping/static/js/2.cbef3add.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "precache-manifest.74eb37cffef6128a7c717a2e632f87e1.js": "/shopping/precache-manifest.74eb37cffef6128a7c717a2e632f87e1.js",
+    "service-worker.js": "/shopping/service-worker.js",
+    "static/css/2.505afc3c.chunk.css.map": "/shopping/static/css/2.505afc3c.chunk.css.map",
+    "static/css/main.87bc7fc7.chunk.css.map": "/shopping/static/css/main.87bc7fc7.chunk.css.map",
+    "static/js/2.cbef3add.chunk.js.LICENSE": "/shopping/static/js/2.cbef3add.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/shopping/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775506c5.js",
+    "static/css/2.505afc3c.chunk.css",
+    "static/js/2.cbef3add.chunk.js",
+    "static/css/main.87bc7fc7.chunk.css",
+    "static/js/main.8b21994f.chunk.js"
+  ]
+}
